@@ -17,5 +17,8 @@ The **SIM Card Activation Service** is a simple web application designed for a t
 - **Environment Management**: dotenv for managing environment variables
 - **Deployment**: Heroku (for the backend service)
 
+## Installation Instructions
 
-
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/nOOOgler/DigiPlus--SimCard.git
