@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "67038decab121f9cc8612bdd"
+  },
+  "simNumber": "1234",
+  "phoneNumber": "9823438928",
+  "status": "active",
+  "activationDate": {
+    "$date": "2024-10-07T07:29:48.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67038e12ab121f9cc8612be0"
+  },
+  "simNumber": "1235",
+  "phoneNumber": "834834234",
+  "status": "active",
+  "activationDate": {
+    "$date": "2024-10-07T07:30:26.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67038e25ab121f9cc8612be3"
+  },
+  "simNumber": "1236",
+  "phoneNumber": "2325387989",
+  "status": "inactive",
+  "activationDate": {
+    "$date": "2024-10-07T07:30:45.330Z"
+  },
+  "__v": 0
+}]
